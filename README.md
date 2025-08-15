@@ -4,7 +4,7 @@
 </p>
 
 
-### ✅ **Core Features**
+### ✅ **Core Features** 
 
 1. **Parking Spot Management**
 
